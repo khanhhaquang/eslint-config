@@ -1,0 +1,20 @@
+{
+	"name": "@ken/eslint-config",
+	"version": "0.1.0",
+	"description": "Eslint config from Ken",
+	"repository": "https://github.com/khanhhaquang/eslint-config",
+	"license": "MIT",
+	"author": "Ken",
+	"private": false,
+	"devDependencies": {},
+	"dependencies": {
+		"eslint": "^7.32.0",
+		"eslint-config-airbnb-typescript": "^14.0.0",
+		"eslint-config-prettier": "^8.3.0",
+		"eslint-plugin-import": "^2.24.2",
+		"eslint-plugin-jsx-a11y": "^6.4.1",
+		"eslint-plugin-prettier": "^4.0.0",
+		"eslint-plugin-react": "^7.25.2",
+		"eslint-plugin-react-hooks": "^4.2.0"
+	}
+}
