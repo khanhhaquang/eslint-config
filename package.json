@@ -1,5 +1,5 @@
 {
-	"name": "@kenha/eslint-config",
+	"name": "@ken/eslint-config",
 	"version": "1.0.0",
 	"description": "Eslint config from Ken",
 	"repository": "https://github.com/khanhhaquang/eslint-config",
