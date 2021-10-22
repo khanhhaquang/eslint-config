@@ -9,7 +9,7 @@ This eslint config includes:
 ## Usage
 
 ```
-    yarn add -D @ken/eslint-config
+    npx install-peerdeps --dev @khanhhaquang/eslint-config
 ```
 
-Add `"extends": "@ken/eslint-config"` to your eslint config file.
+Add `"extends": "@khanhhaquang/eslint-config"` to your eslint config file.
