@@ -9,7 +9,7 @@ This eslint config includes:
 ## Usage
 
 ```
-    npx install-peerdeps --dev eslint-config-ken
+    npx install-peerdeps --dev @khanhhaquang/eslint-config-ken
 ```
 
 Add `"extends": "ken"` to your eslint config file.
