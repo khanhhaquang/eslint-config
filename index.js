@@ -1,1 +1,3 @@
-module.exports = require('./lib/index');
+const eslintrc = require('./lib/index');
+
+module.exports = eslintrc;
