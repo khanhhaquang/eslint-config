@@ -12,4 +12,4 @@ This eslint config includes:
     npx install-peerdeps --dev @khanhhaquang/eslint-config-ken
 ```
 
-Add `"extends": "ken"` to your eslint config file.
+Add `"extends": "@khanhhaquang/eslint-config-ken"` to your eslint config file.
